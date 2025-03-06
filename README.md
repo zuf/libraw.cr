@@ -45,3 +45,10 @@ libraw.dcraw_process
 libraw.dcraw_ppm_tiff_writer "/tmp/photo.ppm"
 ```
 
+## Licensing
+
+As the original LibRaw library this bindings is distributed free of charge and with open-source code subject to two licenses:
+
+1. GNU LESSER GENERAL PUBLIC LICENSE version 2.1
+
+2. COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
